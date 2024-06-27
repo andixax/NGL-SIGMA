@@ -1,9 +1,9 @@
-# Mau Recode? oke silahkan
-# ini juga gw hasil recode wkwk
+# Mau Recode? oke silahkan saya ikhlas 
+# 
 #
 #
 #
-# Maaf untuk pemilik asli Script ini
+# 
 #
 #
 import requests
