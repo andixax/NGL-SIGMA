@@ -36,7 +36,7 @@ def ng():
 
     nglusername = input(f"{Fore.BLUE}{Style.BRIGHT}Username: ")
     message = input(f"{Fore.YELLOW}{Back.GREEN}{Style.BRIGHT}Message: ")
-    id = int(input("{Fore.BLACK}{Back.WHITE}{Style.BRIGHT}Masukan huruf dan nomor ( 6 karakter) : "))
+    id = int(input(f"{Fore.BLACK}{Back.WHITE}{Style.BRIGHT}Masukan huruf dan nomor ( 6 karakter) : "))
     
     value =0
     notsend =0
